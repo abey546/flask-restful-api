@@ -77,5 +77,6 @@ The student is likely aiming to learn and practice the following skills and conc
    ```sh
    python main.py
 
-Conclusion
-By completing this project, the student will gain hands-on experience in building a complete RESTful API with database integration, enhancing their understanding of web development and backend programming.
+Conclusion:
+ 
+ This project provides hands-on experience in building a complete RESTful API with database integration, enhancing your understanding of web development and backend programming.
