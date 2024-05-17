@@ -6,7 +6,7 @@ The project involves creating a RESTful API using Flask and Flask-RESTful that m
 - Create a new video (`PUT /video/<int:video_id>`)
 - Retrieve video details (`GET /video/<int:video_id>`)
 - Update specific fields of a video (`PATCH /video/<int:video_id>`)
-- (Potentially) Delete a video (future implementation)
+- Delete a video ('delete /video/<int:video_id>`)
 
 ## Learning Objectives
 The student is likely aiming to learn and practice the following skills and concepts through this project:
